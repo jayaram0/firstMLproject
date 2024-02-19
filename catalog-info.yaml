@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: firstMLproject
+  annotations:
+    github.com/project-slug: jayaram0/firstMLproject
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jayaram0
